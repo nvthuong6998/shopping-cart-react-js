@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "_id": "Cristiano Ronaldo",
+            "image": "/images/cr7.jpg",
+            "title": "This is Ronaldo",
+            "description": "This is 12345677777",
+            "availableSizes":["X", "L", "XL", "XXL"],
+            "price": 29.9
+        },
+        {
+            "_id": "Lione Messi",
+            "image": "/images/m10.jpg",
+            "title": "This is 12345",
+            "description": "This is 12345677777",
+            "availableSizes":["X", "L", "XL", "XXL"],
+            "price": 29.9
+        },
+        {
+            "_id": "Paul Pogba",
+            "image": "/images/p6.jpg",
+            "title": "This is 12345",
+            "description": "This is 12345677777",
+            "availableSizes":["X", "L", "XL", "XXL"],
+            "price": 29.9
+        }
+    ]
+}
