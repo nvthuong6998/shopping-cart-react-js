@@ -13,7 +13,7 @@
             "image": "/images/m10.jpg",
             "title": "This is 12345",
             "description": "This is 12345677777",
-            "availableSizes":["X", "L", "XL", "XXL"],
+            "availableSizes":["X", "L" ],
             "price": 29.9
         },
         {
