@@ -1,6 +1,7 @@
 import React from 'react';
 import data from './data.json';
 import Products from '../src/components/Products'
+import Fliter from '../src/components/Filter'
 
 class App extends React.Component {
 
@@ -28,6 +29,7 @@ class App extends React.Component {
         <main>
           <div className="content">
             <div className="main">
+              <Fliter count={this.state.products.length} />
               <Products products={this.state.products} />
             </div>
             <div className="sidebar">
